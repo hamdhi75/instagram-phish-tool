@@ -5,6 +5,6 @@
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/instagram-phish-tool.git
+git clone https://github.com/hamdhi75/instagram-phish-tool.git
 cd instagram-phish-tool
 chmod +x insta_phish.sh
